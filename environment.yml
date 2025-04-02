@@ -1,0 +1,12 @@
+name: mecanica_computacional
+channels:
+  - default
+dependencies:
+  - python>=3.10
+  - numpy
+  - scipy
+  - matplotlib
+  - sympy
+  - jupyter
+  - ipykernel
+  - pip
