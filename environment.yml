@@ -1,6 +1,7 @@
 name: mecanica_computacional
 channels:
   - default
+  - conda-forge
 dependencies:
   - python>=3.10
   - numpy
@@ -9,4 +10,5 @@ dependencies:
   - sympy
   - jupyter
   - ipykernel
+  - ipympl
   - pip
